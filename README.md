@@ -13,12 +13,8 @@ Hello, my name is Mohammed Riad, and I live in Egypt, a developing country. I'm 
 
 
 ## How will taking this course help you achieve your career goals? (150 words minimum required)
-I have a solid background in "math and algorithms and problem-solving skills", so i eager to learn "machine learning" and that's the course the first step to me to making good projects that help the humanity for an easy life and solve the big problem. 
-My main career goal is to learn every day, i really want to learn and to progress in my career.
-"Programming" requires constant learning and improving, taking a course can help me advance in my knowledge.
+I have a solid background in "math and algorithms and problem-solving skills," so I am eager to learn "machine learning" and that's the course's first step for me to do good projects that help humanity for an easy life and solve the big problem. My main career goal is to learn every day; I want to learn and progress in my career. "Programming" requires constant learning and improving, and taking a course can help me advance my knowledge.
 
-I plan on gaining additional skills by taking related classes and continuing my involvement with a variety of professional associations and I noticed that there a lot of company provides in internship and jobs in the related filled, and I would certainly be interested in taking it and improving my self to be on of the pioneer of "machine learning and deep learning."
-There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
-
+I plan on gaining additional skills by taking related classes and continuing my involvement with various professional associations. I noticed that a lot of company provides internship and jobs in the related field, and I would certainly be interested in taking it and improving myself to be a pioneer of "machine learning and deep learning." There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
 ## If you answered no, please help us understand why.?
 Because there are alot of developing countries the average rate of income is low and not enough personal needs for home so it isn't enough to get paid courses, and we need a lot of free courses for learning and improving ourselves and hlep the humanity and society.
